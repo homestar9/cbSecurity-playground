@@ -161,7 +161,7 @@ component {
                 "validator"                     : "BasicAuthValidator@cbsecurity",
                 "rules" : [
                     {
-                        secureList: "private:*"
+                        secureList: "private"
                     }
                 ],
                 // set up BasicAuth
